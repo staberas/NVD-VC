@@ -12,5 +12,5 @@ Enter the base URL: https://cdntest.live/file/hls/62cf325075425b99bb694cb8/
 
 Enter the filename of the first file in the sequence: 000.ts
 
-Enter the filename of the last file in the sequence: 216.ts
+Enter the filename of the last file in the sequence: 216.ts  (to find it just move the videoplayer to the end of the video)
 
